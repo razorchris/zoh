@@ -5,4 +5,4 @@ Welcome to Zuitt Open House!
 Topics in this ZOH:
 - Git
 - HTML
-- CSS
+- CSS s
