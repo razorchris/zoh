@@ -1,0 +1,131 @@
+/*CSS Universal*/
+
+* {
+	font-family: "Calibri", monospace;
+	/*margin-top: ;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	*/text-align: center	;
+}
+
+nav {
+	padding: 16px;
+	margin-bottom: 4px;
+	background-color: aliceblue ;
+	
+}
+
+
+profile {
+	height: 300px;
+	width: 300px;
+	padding: 150px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+name {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+title {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+intro {
+	width: 200px;
+	color: 	white;
+	margin-top: 30px;
+	margin-bottom: 30px;
+
+}
+
+tools {
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 20px	;
+}
+
+tools-title {
+	padding: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+projects {
+	text-align:  center;
+}
+
+#contact {
+	padding: 16px;
+	margin-bottom: 4px;
+	background-color: aliceblue ;
+}
+
+landing {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white	;
+}
+
+body {
+  	background-repeat: no-repeat;
+/*	background-size: cover;*/
+	background-position: center;
+/*	height: 20rem ;*/
+	background-attachment: fixed;
+/*	 opacity: 0.3; /*/
+background-color: 	lightgray;
+}
+
+
+/*Class CSS*/
+
+.nav-link {
+	margin-left: auto;
+	margin-right: auto;
+	color: darkgreen;
+}
+
+.tools-img {
+	height: 100px;
+	width: 100px;
+	margin-left: 10px;
+	margin-right: 10px;
+	background-color: white	;
+	padding: 10px;
+	border-radius: 53px;
+
+}
+
+.card {
+	background-color: lightskyblue;
+	height: 400px;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 	10px;
+	border-radius: 	10PX;
+}
+
+.card-img {
+	height: 300px;
+	width: 300px;
+}
+
+.nav-link {
+	margin-left: auto;
+	margin-right: auto;
+	color: burlywood;
+}
+
+.projecttitle {
+	margin-top: 50px;
+	padding: 20px;
+}
